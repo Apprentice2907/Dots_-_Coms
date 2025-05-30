@@ -496,7 +496,7 @@ function App() {
             </div>
             <div className="sec-right">
               <img src="Photo/ground.jpg" alt="" />
-              <video muted="" src="Photo/coffee1.mp4" />
+              <video muted="" src="Photo/coffee.mp4" />
             </div>
           </div>
         </div>
