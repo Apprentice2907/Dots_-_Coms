@@ -194,7 +194,7 @@ function App() {
       <title>
         DOTS &amp; COMS. — Website &amp; Application Solutions Agency
       </title>
-      <link rel="shortcut icon" href="Photo/logo.jpg" type="image/x-icon" />
+      <link rel="shortcut icon" href="Photo/logo.png" type="image/x-icon" />
       <link
         href="https://cdn.jsdelivr.net/npm/remixicon@4.2.0/fonts/remixicon.css"
         rel="stylesheet"
